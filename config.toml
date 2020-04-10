@@ -27,7 +27,7 @@ description = "Agencia de Marketing Digital en Madrid, España"
 email = "santillera@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo5.png"
+logo = "images/logo.png"
 phone = "+34 663 010971"
 theme_color = "#41228e"
 [params.contact]
