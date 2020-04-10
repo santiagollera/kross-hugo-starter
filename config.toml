@@ -20,15 +20,15 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "C/ Escudo de Oro 9, Madrid, España"
+author = "Santiago Llera Garcia"
+copyright = "Copyrighht &copy; WOW Marketing 2020 "
+description = "Agencia de Marketing Digital en Madrid, España"
+email = "santillera@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo2.png"
-phone = "+880 2544 658 256"
+logo = "images/logo2.webp"
+phone = "+34 663 010971"
 theme_color = "#41228e"
 [params.contact]
 enable = true
